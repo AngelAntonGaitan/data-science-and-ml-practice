@@ -1,0 +1,20 @@
+,Model 1,Model 2,Model 3,Clase real
+1,Moderate,Moderate,Critical,Moderate
+2,Moderate,Negligible,Critical,Negligible
+3,Negligible,Negligible,Critical,Negligible
+4,Critical,Critical,Critical,Critical
+5,Negligible,Negligible,Critical,Moderate
+6,Negligible,Negligible,Critical,Negligible
+7,Negligible,Critical,Critical,Negligible
+8,Moderate,Negligible,Critical,Negligible
+9,Moderate,Negligible,Critical,Negligible
+10,Negligible,Moderate,Critical,Negligible
+11,Negligible,Negligible,Critical,Negligible
+12,Moderate,Negligible,Critical,Moderate
+13,Moderate,Negligible,Critical,Negligible
+14,Moderate,Negligible,Critical,Negligible
+15,Negligible,Moderate,Critical,Negligible
+16,Moderate,Moderate,Critical,Moderate
+17,Negligible,Moderate,Critical,Moderate
+18,Moderate,Moderate,Critical,Moderate
+19,Negligible,Negligible,Critical,Negligible
